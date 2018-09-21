@@ -1,4 +1,4 @@
 import './../style/index.scss';
-import {a} from './circle';
+import { animate } from './animate';
 
-a();
+animate();
